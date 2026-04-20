@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Cascade'
+author 'moorgaming'
 description 'Lobster Fishing Script for QBX'
 version '1.0.0'
 
